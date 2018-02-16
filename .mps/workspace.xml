@@ -6,7 +6,39 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8120cff-044d-4ee9-854f-e43022aa08f4" name="Default" comment="" />
+    <list default="true" id="e8120cff-044d-4ee9-854f-e43022aa08f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/EditorAspectDescriptorImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$1$1.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$1.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$2$1.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$2.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$Inline_Builder_a06869_a0a.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$Inline_Builder_a06869_a0a.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$Inline_Builder_a06869_a2a.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a$Inline_Builder_a06869_a2a.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/composition_EditorBuilder_a.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/ConceptPresentationAspectImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/LanguageConceptSwitch.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/LanguageConceptSwitch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/trace.info" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/aspectcps-descriptorclasses.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/trace.info" afterPath="$PROJECT_DIR$/languages/FMDE_End/classes_gen/FMDE_End/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/models/editor.mps" afterPath="$PROJECT_DIR$/languages/FMDE_End/models/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/models/structure.mps" afterPath="$PROJECT_DIR$/languages/FMDE_End/models/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/sandbox/models/FMDE_End.sandbox.mps" afterPath="$PROJECT_DIR$/languages/FMDE_End/sandbox/models/FMDE_End.sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/sandbox/source_gen.caches/FMDE_End/sandbox/generated" afterPath="$PROJECT_DIR$/languages/FMDE_End/sandbox/source_gen.caches/FMDE_End/sandbox/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/editor/dependencies" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/editor/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/editor/generated" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/editor/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/generated" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/structure/generated" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen.caches/FMDE_End/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/EditorAspectDescriptorImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/composition_EditorBuilder_a.java" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/composition_EditorBuilder_a.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/trace.info" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/LanguageConceptSwitch.java" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/LanguageConceptSwitch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/aspectcps-descriptorclasses.mps" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/aspectcps-descriptorclasses.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/trace.info" afterPath="$PROJECT_DIR$/languages/FMDE_End/source_gen/FMDE_End/structure/trace.info" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +52,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="46e20b86-dfef-4171-869d-95a7fecee438/r:43b807d9-7913-4686-82af-9955e2ffe0e4(TempModule46e20b86-dfef-4171-869d-95a7fecee438/TempModel_20574850900994)">
+            <model ref="5845c281-e1dd-4bef-9bb8-8358662189cc/r:6545a76f-5802-4dc1-a5fc-bd4ceaefab0c(TempModule5845c281-e1dd-4bef-9bb8-8358662189cc/TempModel_7624310129758)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -54,13 +86,13 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="7PRgKCpnFcx">
-                <node concept="3balQm" id="7PRgKCpnFcy" role="aymYE" />
-                <node concept="2Clz$F" id="7PRgKCpnFcz" role="aymYO">
+              <node concept="aymSD" id="2nMm2ukxu3Y">
+                <node concept="3balQm" id="2nMm2ukxu3Z" role="aymYE" />
+                <node concept="2Clz$F" id="2nMm2ukxu40" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
-                <node concept="2_V_lH" id="7PRgKCpnFc$" role="1PhJh3">
-                  <ref role="2_V_lI" node="7PRgKCpnFcz" resolve="CommandHolder" />
+                <node concept="2_V_lH" id="2nMm2ukxu41" role="1PhJh3">
+                  <ref role="2_V_lI" node="2nMm2ukxu40" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -92,145 +124,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="103" />
-                    <property name="caretXRelative" value="16" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
-                      <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A" pinned="false" current-in-tab="false">
-        <entry file="mps://node://FMDE_End/FMDE_End.structure/A">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrow" pinned="false" current-in-tab="false">
-        <entry file="mps://node://FMDE_End/FMDE_End.structure/arrow">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051940" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051940" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphSets" pinned="false" current-in-tab="false">
-        <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/GraphSets">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="119" />
-                    <property name="caretXRelative" value="16" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
-                      <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/3100434872985699221" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FinSets" pinned="false" current-in-tab="false">
-        <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/FinSets">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="31" />
+                    <property name="caretX" value="47" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/6942457548058380756" />
+                      <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624577558" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -239,7 +137,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624577558" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -247,40 +145,6 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composition" pinned="false" current-in-tab="false">
-        <entry file="mps://node://FMDE_End/FMDE_End.structure/composition">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints />
-              </inspectorMemento>
-              <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941" />
             </state>
           </provider>
         </entry>
@@ -380,8 +244,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystem" />
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -390,41 +252,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="d0a0492b-832b-46e1-9328-665a3140e72e(FMDE_End)" />
+              <option name="myItemId" value="57148e39-3fab-4fab-87e3-6055999f047e" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor) in IdeaFile{file://C:/Users/Volker/MpsProjects/FMDE_EndProject/languages/FMDE_End/models/editor.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="FMDE_End" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="686792c5-78bb-47c7-a300-fc1e54e44397" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d0a0492b-832b-46e1-9328-665a3140e72e(FMDE_End)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:19ab75c5-ff5e-4c87-9a1b-6500a050cc93(FMDE_End.constraints) in IdeaFile{file://C:/Users/Volker/MpsProjects/FMDE_EndProject/languages/FMDE_End/models/constraints.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
+              <option name="myItemId" value="r:b0a19b22-5bdc-4dba-8836-9c0e10e7211c(FMDE_End.runtime) in IdeaFile{file://C:/Users/Volker/MpsProjects/FMDE_EndProject/languages/FMDE_End/runtime/models/FMDE_End.runtime.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,6 +275,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FMDE_End" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="686792c5-78bb-47c7-a300-fc1e54e44397" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FMDE_End" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox) in IdeaFile{file://C:/Users/Volker/MpsProjects/FMDE_EndProject/languages/FMDE_End/sandbox/models/FMDE_End.sandbox.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -462,7 +316,31 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="686792c5-78bb-47c7-a300-fc1e54e44397" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FMDE_End" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="57148e39-3fab-4fab-87e3-6055999f047e" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="686792c5-78bb-47c7-a300-fc1e54e44397" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,26 +354,16 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="57148e39-3fab-4fab-87e3-6055999f047e" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FMDE_End" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:b0a19b22-5bdc-4dba-8836-9c0e10e7211c(FMDE_End.runtime) in IdeaFile{file://C:/Users/Volker/MpsProjects/FMDE_EndProject/languages/FMDE_End/runtime/models/FMDE_End.runtime.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -570,21 +438,19 @@
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32018927" sideWeight="0.52118003" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32018927" sideWeight="0.52420574" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32018927" sideWeight="0.47881997" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32018927" sideWeight="0.47579426" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47276855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48789713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -593,7 +459,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -613,828 +481,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://jetbrains.mps.lang.core/jetbrains.mps.lang.core.structure/string">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="175" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)/1082983041843" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)/1082983041843" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.constraints/???_Constraints" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/mapping" />
-    <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/null" />
-    <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/FiniteSets" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/FiniteSets" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/category" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/EdgeMapping">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058096483" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024079" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058096483" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/FinSetElement">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472093985" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051940" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472093985" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/GraphMapping">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024087" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051942" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024087" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/category" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/Mapping">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548057898231" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548057898231" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548057898231" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/Node">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024079" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024079" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024079" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/TotalFunction">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="127" />
-                <property name="caretXRelative" value="40" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_conceptAlias" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051945" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051945" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/Graphfunction">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051972" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051942" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051972" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[InterfaceConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <node />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/IDs_and_Compositions">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3100434872985654688" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3100434872985654688" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3100434872985654688" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/Edge">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024083" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058024083" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="287" />
-                <property name="caretXRelative" value="104" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624243890" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624148885" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/id">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="199" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051942" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/6942457548058380756" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051942" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/FinSet">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="119" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_conceptAlias" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051944" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051944" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051944" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/GraphSets">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="335" />
-                <property name="caretXRelative" value="88" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058009628" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058009628" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/6942457548058009628" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/object">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051939" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051939" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051939" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/GraphSet">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051971" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051971" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051971" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/FinSets">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="319" />
-                <property name="caretXRelative" value="88" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051943" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051943" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051943" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338739" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624338936" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624413541" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624413541" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624413541" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624413541" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/B">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/C">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <node />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <node />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/multipleComposition">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <node />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://FMDE_End/FMDE_End.structure/arrow">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1529,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://FMDE_End/FMDE_End.structure/composition">
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/A">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
@@ -1540,7 +586,7 @@
                 <property name="caretXRelative" value="56" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941" />
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1549,7 +595,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1557,7 +603,1200 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941" />
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344723" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344723" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344723" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344723" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="215" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411598" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411511" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="215" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411598" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="255" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673411601" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="255" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="255" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411511" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="255" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="115" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673437423" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="115" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673437423" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673437423" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="147" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_6h6dhy_e2a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="147" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_6h6dhy_e2a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344727" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="235" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/3277945413673488743" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="235" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="235" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/3277945413673488757" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="235" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673462976" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488837" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="247" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="247" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="247" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="247" />
+                <property name="caretXRelative" value="32" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673488865" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673411528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/3277945413673488743" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End.sandbox/FMDE_End.sandbox/compositions" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/B">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3100434872985610186" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/compositions" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/multiComps" />
+    <entry file="mps://node://FMDE_End/FMDE_End.structure/composition">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="575" />
+                <property name="caretXRelative" value="64" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_role_1" cellNumber="0" isInList="false">
+                  <node node_reference="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673620830" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3277945413673620830" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:1714f823-bc2a-425b-aa72-02fcab5375e2(FMDE_End.editor)/3100434872985610186" />
         </state>
       </provider>
     </entry>
@@ -1568,11 +1807,11 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="103" />
-                <property name="caretXRelative" value="16" />
+                <property name="caretX" value="47" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name_1" cellNumber="0" isInList="false">
-                  <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624577558" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1581,7 +1820,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624623909" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:063c6969-3ca4-47ef-aef5-48e754115e51(FMDE_End.sandbox)/9040768487624577558" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

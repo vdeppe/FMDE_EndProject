@@ -13,6 +13,7 @@ import jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   /*package*/ final ConceptDescriptor myConceptA = createDescriptorForA();
+  /*package*/ final ConceptDescriptor myConceptB = createDescriptorForB();
   /*package*/ final ConceptDescriptor myConceptEdge = createDescriptorForEdge();
   /*package*/ final ConceptDescriptor myConceptEdgeMapping = createDescriptorForEdgeMapping();
   /*package*/ final ConceptDescriptor myConceptFinSet = createDescriptorForFinSet();
@@ -38,7 +39,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptA, myConceptEdge, myConceptEdgeMapping, myConceptFinSet, myConceptFinSetElement, myConceptFinSets, myConceptGraphMapping, myConceptGraphSet, myConceptGraphSets, myConceptGraphfunction, myConceptIDs_and_Compositions, myConceptMapping, myConceptNode, myConceptTotalFunction, myConceptarrow, myConceptcomposition, myConceptid, myConceptobject);
+    return Arrays.asList(myConceptA, myConceptB, myConceptEdge, myConceptEdgeMapping, myConceptFinSet, myConceptFinSetElement, myConceptFinSets, myConceptGraphMapping, myConceptGraphSet, myConceptGraphSets, myConceptGraphfunction, myConceptIDs_and_Compositions, myConceptMapping, myConceptNode, myConceptTotalFunction, myConceptarrow, myConceptcomposition, myConceptid, myConceptobject);
   }
 
   @Override
@@ -47,6 +48,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     switch (myConceptIndex.index(id)) {
       case LanguageConceptSwitch.A:
         return myConceptA;
+      case LanguageConceptSwitch.B:
+        return myConceptB;
       case LanguageConceptSwitch.Edge:
         return myConceptEdge;
       case LanguageConceptSwitch.EdgeMapping:
@@ -96,6 +99,13 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("jetbrains.mps.baseLanguage.structure.Expression", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/9040768487624040848");
+    return b.create();
+  }
+  private static ConceptDescriptor createDescriptorForB() {
+    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("FMDE_End", "B", 0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x2d7d99fc871eded6L);
+    b.class_(false, false, false);
+    b.origin("r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3277945413673344726");
+    b.associate("next", 0x2d7d99fc871eded7L).target(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x7d77430a19606190L).optional(false).origin("3277945413673344727").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForEdge() {
@@ -225,6 +235,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.origin("r:3974226e-e194-442e-a368-0e09bc3c17d7(FMDE_End.structure)/3613053408472051941");
     b.associate("from", 0x2b06f517158a67bdL).target(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x7d77430a19606190L).optional(false).origin("3100434872985610173").done();
     b.associate("to", 0x2b06f517158a67bfL).target(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x7d77430a19606190L).optional(false).origin("3100434872985610175").done();
+    b.aggregate("continue", 0x2d7d99fc87231551L).target(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x2d7d99fc871eded6L).optional(true).ordered(true).multiple(true).origin("3277945413673620817").done();
     b.alias(";");
     return b.create();
   }

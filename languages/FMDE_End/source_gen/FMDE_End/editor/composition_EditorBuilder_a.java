@@ -16,6 +16,15 @@ import jetbrains.mps.editor.runtime.impl.CellUtil;
 import jetbrains.mps.nodeEditor.EditorManager;
 import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
+import jetbrains.mps.nodeEditor.cellProviders.AbstractCellListHandler;
+import jetbrains.mps.lang.editor.cellProviders.RefNodeListHandler;
+import jetbrains.mps.smodel.action.NodeFactoryManager;
+import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
+import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
+import jetbrains.mps.openapi.editor.cells.CellActionType;
+import jetbrains.mps.nodeEditor.cellActions.CellAction_DeleteNode;
+import jetbrains.mps.openapi.editor.cells.DefaultSubstituteInfo;
+import jetbrains.mps.nodeEditor.cellMenu.SChildSubstituteInfo;
 
 /*package*/ class composition_EditorBuilder_a extends AbstractEditorBuilder {
   @NotNull
@@ -44,6 +53,7 @@ import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
     editorCell.addEditorCell(createRefCell_a06869_a0());
     editorCell.addEditorCell(createConstant_a06869_b0());
     editorCell.addEditorCell(createRefCell_a06869_c0());
+    editorCell.addEditorCell(createRefNodeList_a06869_d0());
     return editorCell;
   }
   private EditorCell createRefCell_a06869_a0() {
@@ -190,6 +200,62 @@ import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
         return manager.createNodeRoleAttributeCell(attributeConcept, provider.getRoleAttributeKind(), editorCell);
       } else
       return editorCell;
+    }
+  }
+  private EditorCell createRefNodeList_a06869_d0() {
+    AbstractCellListHandler handler = new composition_EditorBuilder_a.continueListHandler_a06869_d0(myNode, "continue", getEditorContext());
+    EditorCell_Collection editorCell = handler.createCells(new CellLayout_Indent(), false);
+    editorCell.setCellId("refNodeList_continue");
+    editorCell.setRole(handler.getElementRole());
+    return editorCell;
+  }
+  private static class continueListHandler_a06869_d0 extends RefNodeListHandler {
+    @NotNull
+    private SNode myNode;
+
+    public continueListHandler_a06869_d0(SNode ownerNode, String childRole, EditorContext context) {
+      super(ownerNode, childRole, context, false);
+      myNode = ownerNode;
+    }
+
+    @Override
+    @NotNull
+    public SNode getNode() {
+      return myNode;
+    }
+
+    public SNode createNodeToInsert(EditorContext editorContext) {
+      return NodeFactoryManager.createNode(MetaAdapterFactory.getConcept(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x2d7d99fc871eded6L, "FMDE_End.structure.B"), null, getNode(), getNode().getModel());
+    }
+    public EditorCell createNodeCell(SNode elementNode) {
+      EditorCell elementCell = getUpdateSession().updateChildNodeCell(elementNode);
+      installElementCellActions(elementNode, elementCell);
+      return elementCell;
+    }
+    public EditorCell createEmptyCell() {
+      getCellFactory().pushCellContext();
+      getCellFactory().setNodeLocation(new SNodeLocation.FromParentAndLink(continueListHandler_a06869_d0.this.getNode(), MetaAdapterFactory.getContainmentLink(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x322424eea67db0e5L, 0x2d7d99fc87231551L, "continue")));
+      try {
+        EditorCell emptyCell = null;
+        emptyCell = super.createEmptyCell();
+        installElementCellActions(null, emptyCell);
+        setCellContext(emptyCell);
+        return emptyCell;
+      } finally {
+        getCellFactory().popCellContext();
+      }
+    }
+    public void installElementCellActions(SNode elementNode, EditorCell elementCell) {
+      if (elementCell.getUserObject(AbstractCellListHandler.ELEMENT_CELL_ACTIONS_SET) == null) {
+        elementCell.putUserObject(AbstractCellListHandler.ELEMENT_CELL_ACTIONS_SET, AbstractCellListHandler.ELEMENT_CELL_ACTIONS_SET);
+        if (elementNode != null) {
+          elementCell.setAction(CellActionType.DELETE, new CellAction_DeleteNode(elementNode, CellAction_DeleteNode.DeleteDirection.FORWARD));
+          elementCell.setAction(CellActionType.BACKSPACE, new CellAction_DeleteNode(elementNode, CellAction_DeleteNode.DeleteDirection.BACKWARD));
+        }
+        if (elementCell.getSubstituteInfo() == null || elementCell.getSubstituteInfo() instanceof DefaultSubstituteInfo) {
+          elementCell.setSubstituteInfo(new SChildSubstituteInfo(elementCell, getNode(), MetaAdapterFactory.getContainmentLink(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x322424eea67db0e5L, 0x2d7d99fc87231551L, "continue"), elementNode));
+        }
+      }
     }
   }
 }

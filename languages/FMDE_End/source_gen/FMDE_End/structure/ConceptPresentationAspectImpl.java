@@ -10,6 +10,7 @@ import jetbrains.mps.smodel.runtime.ConceptPresentationBuilder;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
   private ConceptPresentation props_A;
+  private ConceptPresentation props_B;
   private ConceptPresentation props_Edge;
   private ConceptPresentation props_EdgeMapping;
   private ConceptPresentation props_FinSet;
@@ -40,6 +41,13 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
           props_A = cpb.create();
         }
         return props_A;
+      case LanguageConceptSwitch.B:
+        if (props_B == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.presentationByReference(0xd0a0492b832b46e1L, 0x9328665a3140e72eL, 0x2d7d99fc871eded6L, 0x2d7d99fc871eded7L, "next", "", "");
+          props_B = cpb.create();
+        }
+        return props_B;
       case LanguageConceptSwitch.Edge:
         if (props_Edge == null) {
           ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
